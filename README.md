@@ -49,4 +49,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Copyright © 2025 Jacob "Isreal" Eiler and Isreal Consulting, LLC.
 
-https://icllc.cc/dev-tool-android-masssmssender/
+https://icllc.cc/devtool-android-masssmssender/
