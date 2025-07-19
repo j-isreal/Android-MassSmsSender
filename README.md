@@ -1,7 +1,23 @@
 # README
 
-Android-MassSmsSender
+## Android-MassSmsSender
 
+<b>Warning:</b>  This software uses the native SMS functionality on your
+Android device to send multiple SMS messages which will originate from
+your device's mobile number.  Consideration must be taken as mass
+sending of SMS messages from non-bulk registered numbers may result
+in your mobile number becoming network-blocked and/or reported for
+SPAM, which could result in loss of service and/or fines or penalties!
+The creators of this test tool assume NO RESPONSIBILITY OR LIABILITY.
+
+<b>Use at your own risk!</b>
+
+## Usage
+Download the latest Release .apk file and install on your Android device.
+Requires Send_SMS and Read_Contacts permissions.
+
+
+### License
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
