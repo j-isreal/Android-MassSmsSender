@@ -2,7 +2,7 @@
 
 ## Android-MassSmsSender
 
-<b>Warning:</b>  This software uses the native SMS functionality on your
+<b>WARNING:</b>  This software uses the native SMS functionality on your
 Android device to send multiple SMS messages which will originate from
 your device's mobile number.  Consideration must be taken as mass
 sending of SMS messages from non-bulk registered numbers may result
